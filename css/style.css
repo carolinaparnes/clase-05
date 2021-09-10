@@ -1,0 +1,26 @@
+/* Esto es un comentario
+SELECTOR { 
+    PROPIEDAD : 1234
+    PROPIEDAD : "12JKM445LL"
+}
+
+bgcolor = "lightblue"
+*/
+
+body {
+    background-color: lightblue;
+}
+footer {
+    background-color: pink;
+}
+header {
+    background-color: black;
+    color: white;
+}
+#iniciar {
+    color: white;
+}
+.whitebg {
+    background-color: white;
+    color: black;
+}
